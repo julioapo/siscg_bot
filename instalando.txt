@@ -1,0 +1,10 @@
+Manejador de Base de Datos: postgresql
+Nombre de Base de Datos: scg_db
+usuario de base de datos: desarrollo
+
+colocar proyecto en /var/www/html o en su directorio web
+
+usuario: julioapo
+password: julioapo
+
+contiene un dump de base de datos: dump.sql
