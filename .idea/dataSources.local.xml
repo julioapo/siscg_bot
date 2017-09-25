@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="postgresql - scg_db@127.0.0.1" uuid="528aca20-09dd-4445-a8c6-db3fbb8df890">
+      <secret-storage>master_key</secret-storage>
+      <user-name>desarrollo</user-name>
+      <schema-pattern>scg_db.pg_catalog scg_db.public</schema-pattern>
+      <default-schemas>scg_db.pg_catalog scg_db.public</default-schemas>
+    </data-source>
+  </component>
+</project>
+
